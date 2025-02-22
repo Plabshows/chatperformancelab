@@ -180,6 +180,9 @@ necesario preparar un espectáculo.*
     res.status(500).json({ reply: "Hubo un error al conectar con el chatbot." });
   }
 });
+app.get("/", (req, res) => {
+  res.send("¡Chatbot está funcionando en Render! 🚀");
+});
 
 app.listen(PORT, () => {
   console.log(`✅ Servidor corriendo en http://localhost:${PORT}`);
