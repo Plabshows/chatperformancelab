@@ -1,0 +1,89 @@
+{
+  "empresa": "Manuel Performance Lab Ibiza",
+  "descripcion": "Somos una agencia especializada en espectáculos de entretenimiento en Ibiza y la Península, ofreciendo shows con bailarines, acróbatas y artistas visuales.",
+  "web": "https://performancelab.es/",
+  "contacto": {
+    "email": "info@manuelperformance.com",
+    "whatsapp": "+34 600 123 456",
+    "instagram": "@manuelperformanceibiza",
+    "facebook": "Manuel Performance Lab"
+  },
+  "servicios": {
+    "personajes": [
+      "Pom Pom Monsters",
+      "TV Heads",
+      "Boombox Man",
+      "The Humanoids",
+      "Golden Mirror",
+      "Golden Mirror Ballerinas",
+      "Mirror Man",
+      "Mirror Women",
+      "Mirror Ball Head",
+      "Hedge Men",
+      "The Face",
+      "Slinky Man",
+      "Cosmic Girls",
+      "Inflatable Gorilla",
+      "B-Boy Monkeys",
+      "The Shamans"
+    ],
+    "otros_servicios": [
+      "Gogo Dancers",
+      "Azafatas y Modelos",
+      "Artistas Drag",
+      "Espectáculos de Fuego / Fuegos Artificiales"
+    ],
+    "actos_de_circo": [
+      "Espectáculos Aéreos",
+      "El Mimo",
+      "Equilibrio de Manos",
+      "Slackline",
+      "Contorsionismo"
+    ],
+    "espectaculos_de_arte": [
+      "Body Painting",
+      "Camuflaje",
+      "Maquillaje con Purpurina",
+      "Graffiti Personalizado",
+      "Graffiti en Realidad Virtual",
+      "Pintura en Vivo",
+      "Pintura con Fuego"
+    ],
+    "espectaculos_de_danza": [
+      "Mirror Man",
+      "Mirror Women",
+      "Golden Mirror Ballerinas",
+      "Contemporáneo",
+      "Samba",
+      "Flamenco",
+      "Breakdance",
+      "B-Boy Monkeys",
+      "Breaking Bike",
+      "Roller Girls",
+      "Pom Pom Monsters",
+      "The Humanoids",
+      "Cosmic Girls"
+    ]
+  },
+  "precios": {
+    "ibiza": {
+      "bailarines": {
+        "villas": 250,
+        "clubs": 200,
+        "restaurantes": 180
+      },
+      "alquiler_disfraces": {
+        "minimo": 60,
+        "maximo": 100
+      },
+      "colaboraciones_nota": "Los precios aumentan un 10% en presupuestos de agencias (no mencionar salvo que se pregunte)."
+    },
+    "peninsula": {
+      "eventos_corporativos": {
+        "minimo": 250,
+        "maximo": 350,
+        "condiciones": "No incluye viaje, hotel ni dietas."
+      }
+    }
+  }
+}
